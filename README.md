@@ -1,3 +1,7 @@
+### Note Added cachevector.R 
+cachevector is not needed for this assignment.
+It is added for personal usage and test purposes of github. 
+
 ### Introduction
 
 This second programming assignment will require you to write an R
